@@ -1,0 +1,5 @@
+env/
+resume/.env
+resume/__pycache__/
+api/__pycache__/
+db.sqlite3
